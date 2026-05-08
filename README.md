@@ -1,5 +1,3 @@
-## Hi there, I'm Natalia Luzuriaga 👋
-
 I am a software engineer supporting the Digital Service at the Centers for Medicare and Medicaid Services (CMS.gov) where I’m involved in launching and growing the first Open Source Program Office in the federal government. My work is focused on building tools and establishing best practices that assess and promote repository health across CMS’ open source ecosystem. Currently, I am developing tooling and resources centered around the automation of archiving repositories when they reach the end of life stage.
 
 ### How to reach me
