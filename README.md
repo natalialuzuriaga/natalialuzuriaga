@@ -23,3 +23,6 @@ As someone who is early in their career, I have so much to learn about open sour
   <a href="https://www.linkedin.com/in/natalialuzuriaga/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
+
+### Activity
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=natalialuzuriaga&theme=shadow-purple)](https://git.io/streak-stats)
